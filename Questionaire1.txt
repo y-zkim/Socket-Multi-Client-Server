@@ -1,0 +1,3 @@
+fork permet de : A) créer processus  B) detruire processus   C) attendre processus   D) l'endormir
+ENSA Kh fondée en : A) 2005   B) 2003   C) 2007   D) 2010
+Le module de ce mini-proj : A) UML  B) Prog Rsx    C) TCC   D) Java    D)
